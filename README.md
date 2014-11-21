@@ -2,7 +2,9 @@ jquery_ajax_select
 ==================
 Plugin that wrap native jquery load function with select fill functionality.
 
+~~~
 $('select').load('/fake/url');
+~~~
 
 supported response from server
 
