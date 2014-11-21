@@ -8,7 +8,7 @@ $('select').load('/fake/url');
 
 supported response from server
 
-~~~
+~~~json
 [
     {"id":"data for select option value","title":"data for select option text"},
     {"id":"data for select option value","title":"data for select option text"},
