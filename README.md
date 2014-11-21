@@ -1,4 +1,4 @@
-jquery_ajax_select
+jquery select ajax load
 ==================
 Plugin that wrap native jquery load function with select fill functionality.
 
